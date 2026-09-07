@@ -25,3 +25,5 @@ dist-ssr
 
 # Backend secrets
 server/.env
+
+.env.production
